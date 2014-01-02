@@ -1,6 +1,6 @@
 {
   "name": "http-https",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A wrapper that chooses http or https for requests",
   "main": "http-https.js",
   "scripts": {
